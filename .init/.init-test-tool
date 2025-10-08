@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/india-stock-market-hub-26009-26018/indian_stock_market_frontend"
+}
